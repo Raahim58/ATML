@@ -1,0 +1,80 @@
+============================================================
+Model: DAN
+============================================================
+
+Overall Accuracy: 0.5608
+Macro F1: 0.5116
+Macro Precision: 0.5592
+Macro Recall: 0.5306
+
+Rarest 3 classes: [33 40 62] with counts [2 6 6]
+Rarest classes F1: 0.0556
+
+============================================================
+Per-Class Breakdown:
+============================================================
+Class  0 (C0                  ): F1=0.647, Prec=0.579, Rec=0.733, N=  15
+Class  1 (C1                  ): F1=0.686, Prec=0.706, Rec=0.667, N=  18
+Class  2 (C2                  ): F1=0.733, Prec=0.579, Rec=1.000, N=  11
+Class  3 (C3                  ): F1=0.476, Prec=0.345, Rec=0.769, N=  13
+Class  4 (C4                  ): F1=1.000, Prec=1.000, Rec=1.000, N=  15
+Class  5 (C5                  ): F1=0.780, Prec=0.696, Rec=0.889, N=  18
+Class  6 (C6                  ): F1=0.213, Prec=0.125, Rec=0.714, N=   7
+Class  7 (C7                  ): F1=0.692, Prec=0.643, Rec=0.750, N=  12
+Class  8 (C8                  ): F1=0.875, Prec=1.000, Rec=0.778, N=  18
+Class  9 (C9                  ): F1=0.837, Prec=0.900, Rec=0.783, N=  23
+Class 10 (C10                 ): F1=0.429, Prec=0.545, Rec=0.353, N=  17
+Class 11 (C11                 ): F1=0.316, Prec=0.429, Rec=0.250, N=  12
+Class 12 (C12                 ): F1=0.417, Prec=0.286, Rec=0.769, N=  13
+Class 13 (C13                 ): F1=0.435, Prec=0.833, Rec=0.294, N=  17
+Class 14 (C14                 ): F1=0.718, Prec=0.778, Rec=0.667, N=  21
+Class 15 (C15                 ): F1=0.167, Prec=0.333, Rec=0.111, N=   9
+Class 16 (C16                 ): F1=0.500, Prec=0.500, Rec=0.500, N=  10
+Class 17 (C17                 ): F1=0.606, Prec=0.500, Rec=0.769, N=  13
+Class 18 (C18                 ): F1=0.833, Prec=0.800, Rec=0.870, N=  23
+Class 19 (C19                 ): F1=0.667, Prec=0.667, Rec=0.667, N=  12
+Class 20 (C20                 ): F1=0.476, Prec=0.556, Rec=0.417, N=  12
+Class 21 (C21                 ): F1=0.414, Prec=0.353, Rec=0.500, N=  12
+Class 22 (C22                 ): F1=0.900, Prec=0.818, Rec=1.000, N=  18
+Class 23 (C23                 ): F1=0.571, Prec=0.667, Rec=0.500, N=  12
+Class 24 (C24                 ): F1=0.250, Prec=0.250, Rec=0.250, N=   8
+Class 25 (C25                 ): F1=0.857, Prec=0.923, Rec=0.800, N=  15
+Class 26 (C26                 ): F1=0.222, Prec=0.400, Rec=0.154, N=  13
+Class 27 (C27                 ): F1=0.588, Prec=0.625, Rec=0.556, N=   9
+Class 28 (C28                 ): F1=0.333, Prec=1.000, Rec=0.200, N=  15
+Class 29 (C29                 ): F1=0.500, Prec=0.625, Rec=0.417, N=  12
+Class 30 (C30                 ): F1=0.625, Prec=0.500, Rec=0.833, N=  18
+Class 31 (C31                 ): F1=0.417, Prec=0.714, Rec=0.294, N=  17
+Class 32 (C32                 ): F1=0.483, Prec=0.318, Rec=1.000, N=   7
+Class 33 (C33                 ): F1=0.000, Prec=0.000, Rec=0.000, N=   2
+Class 34 (C34                 ): F1=0.000, Prec=0.000, Rec=0.000, N=   7
+Class 35 (C35                 ): F1=0.375, Prec=0.429, Rec=0.333, N=   9
+Class 36 (C36                 ): F1=0.870, Prec=0.833, Rec=0.909, N=  11
+Class 37 (C37                 ): F1=0.688, Prec=0.579, Rec=0.846, N=  13
+Class 38 (C38                 ): F1=0.538, Prec=0.778, Rec=0.412, N=  17
+Class 39 (C39                 ): F1=0.000, Prec=0.000, Rec=0.000, N=  17
+Class 40 (C40                 ): F1=0.167, Prec=0.167, Rec=0.167, N=   6
+Class 41 (C41                 ): F1=0.522, Prec=0.857, Rec=0.375, N=  16
+Class 42 (C42                 ): F1=0.545, Prec=0.562, Rec=0.529, N=  17
+Class 43 (C43                 ): F1=0.261, Prec=0.300, Rec=0.231, N=  13
+Class 44 (C44                 ): F1=0.526, Prec=0.714, Rec=0.417, N=  12
+Class 45 (C45                 ): F1=0.545, Prec=0.857, Rec=0.400, N=  15
+Class 46 (C46                 ): F1=0.308, Prec=0.400, Rec=0.250, N=   8
+Class 47 (C47                 ): F1=0.417, Prec=0.385, Rec=0.455, N=  11
+Class 48 (C48                 ): F1=0.710, Prec=0.786, Rec=0.647, N=  17
+Class 49 (C49                 ): F1=0.759, Prec=0.688, Rec=0.846, N=  13
+Class 50 (C50                 ): F1=0.667, Prec=0.889, Rec=0.533, N=  15
+Class 51 (C51                 ): F1=0.364, Prec=0.235, Rec=0.800, N=  10
+Class 52 (C52                 ): F1=0.261, Prec=0.333, Rec=0.214, N=  14
+Class 53 (C53                 ): F1=0.688, Prec=0.647, Rec=0.733, N=  15
+Class 54 (C54                 ): F1=0.914, Prec=0.941, Rec=0.889, N=  18
+Class 55 (C55                 ): F1=0.632, Prec=0.667, Rec=0.600, N=  10
+Class 56 (C56                 ): F1=0.348, Prec=0.348, Rec=0.348, N=  23
+Class 57 (C57                 ): F1=0.769, Prec=0.769, Rec=0.769, N=  13
+Class 58 (C58                 ): F1=0.348, Prec=0.286, Rec=0.444, N=   9
+Class 59 (C59                 ): F1=0.476, Prec=0.714, Rec=0.357, N=  14
+Class 60 (C60                 ): F1=0.684, Prec=0.722, Rec=0.650, N=  20
+Class 61 (C61                 ): F1=0.571, Prec=0.750, Rec=0.462, N=  13
+Class 62 (C62                 ): F1=0.000, Prec=0.000, Rec=0.000, N=   6
+Class 63 (C63                 ): F1=0.417, Prec=0.385, Rec=0.455, N=  11
+Class 64 (C64                 ): F1=0.222, Prec=0.333, Rec=0.167, N=  12
