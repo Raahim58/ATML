@@ -1,4 +1,4 @@
-# Techniques for Domain Adaptation & Generalization --- Project Summary
+# Techniques for Domain Adaptation & Generalization 
 
 **Short description**  
 
