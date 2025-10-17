@@ -1,8 +1,6 @@
 
 ---
 
-# (CLIP & Prompt Learning for DA/DG)
-
 # CLIP + Prompt Learning (CoOp) — Domain Adaptation & Generalization
 
 ## Goal
