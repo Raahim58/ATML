@@ -1,4 +1,4 @@
-# Unsupervised Domain Adaptation (UDA) --- Summary & How to Reproduce
+# Unsupervised Domain Adaptation (UDA)
 
 ## Goal
 
