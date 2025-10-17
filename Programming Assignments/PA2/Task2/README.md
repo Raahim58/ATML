@@ -1,7 +1,5 @@
 ---
 
-# `README_DG.md` (Invariant / Robust Domain Generalization)
-
 # Domain Generalization (DG) --- Invariant & Robust Methods
 
 ## Goal
