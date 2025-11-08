@@ -37,7 +37,8 @@ class Server:
             'test_accuracy': [],
             'test_loss': [],
             'train_loss': [],
-            'selected_clients': []
+            'selected_clients': [],
+            'divergence': []
         }
 
     def select_clients(self, fraction=1.0, num_clients=None):
@@ -177,6 +178,7 @@ class Server:
             self.history['test_loss'].append(round_stats['test_loss'])
             self.history['train_loss'].append(round_stats['train_loss'])
             self.history['selected_clients'].append(round_stats['client_ids'])
+            self.history['divergence'].append(round_stats['divergence'])
 
             if verbose:
                 print(f"Round {round_idx + 1}/{num_rounds} | "
